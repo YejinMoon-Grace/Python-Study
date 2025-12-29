@@ -1,0 +1,5 @@
+bld=dbms/MDC/STAT/standard/MDCSTAT01901
+locale=ko_KR
+mktId=ALL
+share=1
+csvxls_isNo=false
